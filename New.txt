@@ -3,4 +3,8 @@ dfesgfdfhngds
 
 hii buddy
 
+<<<<<<< HEAD
 the boys 
+=======
+hii Nikhil koli
+>>>>>>> 1dd67a047a9b9304e2a6d9fc8f3c746b4c413a85
